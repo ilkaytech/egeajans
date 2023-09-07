@@ -2135,6 +2135,8 @@ section {
 #footer .footer-top {
   padding: 60px 0 30px 0;
   background: #fff9f7;
+  align-items: center;
+  justify-content: space-between;
 }
 
 #footer .footer-top .footer-contact {
@@ -2277,4 +2279,8 @@ section {
   background: #ff7e54;
   color: #fff;
   text-decoration: none;
+}
+#footer .row {
+  align-items: center;
+  justify-content: space-between;
 }
